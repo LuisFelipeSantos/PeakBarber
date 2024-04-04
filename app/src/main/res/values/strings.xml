@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PeakBarber</string>
+    <string name="nome">DIGITE AQUI SEU NOME</string>
+    <string name="senha">DIGITE AQUI SUA SENHA</string>
+    <string name="texto_botao">FAZER LOGIN</string>
+    <string name="texto_botao1">AGENDAR</string>
+    <string name="text_botao">FAZER CADASTRO</string>
+    <string name="mensagem_inicio">Bem-vindo(a) a PEAK S BARBER</string>
+    <string name="mensagem_inicio1">Todos os serviços</string>
+    <string name="mensagem_cadastro">FAÇA SEU CADASTRO AQUI</string>
+    <string name="mensagem_login">FAÇA SEU LOGIN AQUI</string>
+    <string name="corte">Corte de cabelo</string>
+    <string name="Agendamento">Agendamento</string>
+    <string name="Data">Data</string>
+    <string name="Hora">Hora</string>
+    <string name="escolha">Escolha um profissional</string>
+    <string name="barbeiro1">Caio</string>
+    <string name="barbeiro2">Felipe</string>
+    <string name="barbeiro3">Fernando</string>
+</resources>
